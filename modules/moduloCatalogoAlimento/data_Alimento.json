@@ -1,0 +1,139 @@
+[    
+    {
+        "nombre": "Tacos", 
+        "precio": "$15.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Bisteq", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Tacos", 
+        "precio": "$15.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Chorizo", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Tacos", 
+        "precio": "$15.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Pastor", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Chilaquiles", 
+        "precio": "$34.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Rojos", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Chilaquiles", 
+        "precio": "$34.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "verdes", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Helado", 
+        "precio": "$25.00", 
+        "categoria" : "Postre", 
+        "descripcion" : "Vainilla", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Helado", 
+        "precio": "$25.00", 
+        "categoria" : "Postre", 
+        "descripcion" : "Chocolate", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Helado", 
+        "precio": "$25.00", 
+        "categoria" : "Postre", 
+        "descripcion" : "Fresa", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Huevos al gusto", 
+        "precio": "$37.00", 
+        "categoria" : "Entrada", 
+        "descripcion" : "A la mexicana", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Huevos al gusto", 
+        "precio": "$37.00", 
+        "categoria" : "Entrada", 
+        "descripcion" : "Estrellados", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Huevos al gusto", 
+        "precio": "$37.00", 
+        "categoria" : "Entrada", 
+        "descripcion" : "Rancheros", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Torta", 
+        "precio": "$25.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Bisteq", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Torta", 
+        "precio": "$25.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Pastor", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Torta", 
+        "precio": "$25.00", 
+        "categoria" : "Plato fuerte", 
+        "descripcion" : "Chorizo", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Ensalada", 
+        "precio": "$29.50", 
+        "categoria" : "Entrada", 
+        "descripcion" : "Ensalada fit", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Hot cakes", 
+        "precio": "$25.00", 
+        "categoria" : "Postre", 
+        "descripcion" : "Miel o maple", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Plato de fruta", 
+        "precio": "$29.00", 
+        "categoria" : "Entrada", 
+        "descripcion" : "Frutas frescas", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    }
+ 
+]

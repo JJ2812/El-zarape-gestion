@@ -1,0 +1,48 @@
+[    
+    {
+        "nombre": "Desayuno completo", 
+        "nombre alimento": "Huevos al gusto", 
+        "nombre bebida": "Jugo de Naranja", 
+        "precio" : "$42.00", 
+        "descripcion" : "Huevos al gusto y jugo de naranja", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Atardecer relax", 
+        "nombre alimento": "Tacos de Pastor", 
+        "nombre bebida": "Michelada Grande", 
+        "precio" : "$60.00", 
+        "descripcion" : "Tacos de pastor y michelada grande", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Combo chill", 
+        "nombre alimento": "Chilaquiles rojos", 
+        "nombre bebida": "Jugo de naranja", 
+        "precio" : "$42.00", 
+        "descripcion" : "Chilaquiles rojos y jugo de naranja", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Dulce tentacion", 
+        "nombre alimento": "Hot cakes y helado", 
+        "nombre bebida": "", 
+        "precio" : "$29.00", 
+        "descripcion" : "Hot cakes y helado", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Very fit", 
+        "nombre alimento": "Ensalada", 
+        "nombre bebida": "Jugo", 
+        "precio" : "$25.00", 
+        "descripcion" : "Ensalada y jugo", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    }
+    
+]

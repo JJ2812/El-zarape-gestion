@@ -1,0 +1,91 @@
+[    
+    {
+        "nombre": "Coca-Cola", 
+        "precio": "$18.00", 
+        "categoria" : "Refresco", 
+        "descripcion" : "Refresco de cola", 
+        "URL" : "https://www.kiwilimon.com/receta/platos-fuertes/rosca-de-tacos-de-bistec", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Fanta", 
+        "precio": "$18.00", 
+        "categoria" : "Refresco", 
+        "descripcion" : "Refresco de naranja", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Mundet", 
+        "precio": "$18.00", 
+        "categoria" : "Refresco", 
+        "descripcion" : "Refresco de manzana", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Jugo de Naranja", 
+        "precio": "$14.00", 
+        "categoria" : "Jugo", 
+        "descripcion" : "Jugo natural", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Jugo de Zanahoria", 
+        "precio": "$14.00", 
+        "categoria" : "Jugo", 
+        "descripcion" : "Jugo natural", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Jugo de Fresa", 
+        "precio": "$14.00", 
+        "categoria" : "Jugo", 
+        "descripcion" : "Jugo natural", 
+        "URL" : "https://www.alimente.elconfidencial.com/nutricion/2022-06-08/exceso-de-helado-en-el-organismo_3435888/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Agua natural", 
+        "precio": "$19.00", 
+        "categoria" : "Agua", 
+        "descripcion" : "Agua embotellada", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Margarita", 
+        "precio": "$35.00", 
+        "categoria" : "Bebida Alcoholica", 
+        "descripcion" : "Clasica", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Michelada", 
+        "precio": "$32.00", 
+        "categoria" : "Bebida Alcoholica", 
+        "descripcion" : "Chica", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Michelada", 
+        "precio": "$32.00", 
+        "categoria" : "Bebida Alcoholica", 
+        "descripcion" : "Mediana", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    },
+    {
+        "nombre": "Michelada", 
+        "precio": "$32.00", 
+        "categoria" : "Bebida Alcoholica", 
+        "descripcion" : "Grande", 
+        "URL" : "https://www.homesicktexan.com/chilaquiles-toluquenos/", 
+        "estatus": "Activo"
+    }
+ 
+]

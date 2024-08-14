@@ -1,0 +1,42 @@
+[    
+    {
+        "nombres": "Brayan Mixael", 
+        "apellidos": "Padilla Velasco", 
+        "edad": "19", 
+        "telefono" : "4771230987", 
+        "calleYCol" : "Calle Brasilia, El Cortijo", 
+        "CP" : "37250", 
+        "correo" : "bray@gmail.com", 
+        "estatus": "Activo"
+    },
+    {
+        "nombres": "Juan Leonardo", 
+        "apellidos": "Guevara Gaona", 
+        "edad": "19", 
+        "telefono" : "4777801267",
+        "calleYCol" : "Av. Olimpica, La Luz", 
+        "CP" : "37129",
+        "correo" : "leonardo@gmail.com", 
+        "estatus": "Activo"
+    },
+    {
+        "nombres": "Jessica Johana", 
+        "apellidos": "Zermeño Aguilera", 
+        "edad": "19", 
+        "telefono" : "4778017286",
+        "calleYCol" : "Constelacion, Villas", 
+        "CP" : "37189",
+        "correo" : "jj1228@gmail.com", 
+        "estatus": "Activo"
+    },
+    {
+        "nombres": "Jennifer Adriana", 
+        "apellidos": "Chavez Torres", 
+        "edad": "24", 
+        "telefono" : "4770273972",
+        "calleYCol" : "Calle Venus, Centro", 
+        "CP" : "37678",
+        "correo" : "jenad16@gmail.com", 
+        "estatus": "Activo"
+    }
+]

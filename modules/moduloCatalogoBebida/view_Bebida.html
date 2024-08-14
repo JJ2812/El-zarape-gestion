@@ -1,0 +1,65 @@
+<div class="container-fluid row d-flex justify-content-md-center" style="margin-top: 50px">
+    <div class="card col-lg-5 m-4 p-4">
+        <h2 class="text-center">Gestión de Bebidas</h2>
+        <div class="row g-3">
+            <div class="col-md-6">
+                <label for="txtNumUnico" class="mt-2 ">Número unico de Bebida</label>
+                <input id="txtNumUnico" type="text"  readonly class="mt-2">
+            </div>
+            <div class="col-md-6">
+                <label for="txtNombre" class="mt-2">Nombre Bebida:</label>
+                <input id="txtNombre" type="text"  class="mt-2">
+            </div>
+            <div class="col-md-6">
+                <label for="txtPrecio" class="mt-2">Precio:</label>
+                <input id="txtPrecio" type="text"  class="mt-2">
+            </div>
+            <div class="col-md-6">
+                <label for="txtCat" class="mt-2">Categoria:</label>
+                <select class="form-select" id="txtCat">
+                    <option>Jugo</option>
+                    <option>Refresco</option>
+                    <option>Agua</option>
+                    <option>Bebida alcoholica</option>
+                </select>
+            </div>
+            <div class="col-md-6">
+                <label for="txtDescrip" class="mt-2">Descripcion:</label>
+                <input id="txtDescrip" type="text"  class="mt-2">
+            </div>
+            <div class="col-md-6">
+                <label for="txtURL" class="mt-2 col-12">URL de la imagen:</label><br>
+                <input id="txtURL" type="text"  class="mt-2">
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-around mt-2">
+            <button class="mt-2 btn btn-success btn-lg" onclick="moduloCatalogoBebida.addBebida();" id="btnAdd">Registrar</button>
+            <button class="mt-2 btn btn-info btn-lg" onclick="moduloCatalogoBebida.clean();" id="btnClean">Limpiar</button>
+            <button class="mt-2 btn btn-warning btn-lg disabled" onclick="moduloCatalogoBebida.updateBebida();" id="btnUpdate">Actualizar</button>
+            <button class="mt-2 btn btn-danger btn-lg disabled" onclick="moduloCatalogoBebida.deleteBebida();" id="btnDelete">Eliminar</button>
+        </div>
+    </div>
+
+    <div class="card col-lg-6  p-4 m-4" style="margin-bottom: 10px">
+        <div class="d-flex m-3">
+            <label for="txtBusquedaBebida" class="form-label mx-3">Buscar Bebida: </label>
+            <input type="text" id="txtBusquedaBebida">
+            <button class="btn btn-primary mx-2" onclick="moduloCatalogoBebida.searchBebida();">Buscar</button>
+        </div>
+        <table class="table table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Precio</th>
+                    <th>Categoria</th>
+                    <th>Descripcion</th>
+                    <th>Estátus</th>
+                </tr>
+            </thead>
+            <tbody id="tblBebidas">
+
+            </tbody>
+        </table>
+    </div>
+</div>
